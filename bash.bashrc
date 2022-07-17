@@ -1,11 +1,11 @@
 command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacking]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
+PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[Aghxz]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/Voice-Welcome/termux.mp3
+mpv /$HOME/welcome/termux.mp3
 clear
-echo -e "Created By \e[5mSuman"
+echo -e "Created By \e[5mAghxz"
 echo "----------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
@@ -28,19 +28,16 @@ echo "    MP         ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~        YM "
 echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP "
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
-echo "                              ~OOOOO~    SUMAN "
-echo "              _ "
-echo "             / \ ._  | o ._   _    |_|  _.  _ |  o ._   _ "
-echo "             \_/ | | | | | | (/_   | | (_| (_ |< | | | (_| "
-echo "                                                        _| "
+echo "                              ~OOOOO~    AGHXZ "
+echo "  Aghxz "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mWebSite   \e[1;91m =  \e[1;97monlinehacking.in"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mInstagram   \e[1;91m =  \e[1;97m@agngx14"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@onlinehacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@mrx231107"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@OnlineHacking"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mMe  \e[1;91m =  \e[1;97m@Agng"
 echo ""
 echo ''
 date | lolcat
