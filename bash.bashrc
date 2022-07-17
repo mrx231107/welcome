@@ -6,7 +6,6 @@ clear
 mpv /$HOME/welcome/termux.mp3
 clear
 echo -e "Created By \e[5mAghxz"
-echo "----------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
 echo -e "\e[1;92m"
@@ -40,5 +39,4 @@ echo ""
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mMe  \e[1;91m =  \e[1;97m@Agng"
 echo ""
 echo ''
-date | lolcat
 echo ""
